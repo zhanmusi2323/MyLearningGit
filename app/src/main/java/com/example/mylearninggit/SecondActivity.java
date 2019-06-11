@@ -12,5 +12,6 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.activity_second);
         Log.e("wyw", "第一次修改");
         Log.e("wyw","第二次修改");
+        Log.e("wyw","第三次修改");
     }
 }
